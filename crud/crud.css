@@ -1,0 +1,23 @@
+
+table,
+th,td{
+   border: 1px solid black; 
+   border-collapse: collapse;
+}
+
+th,td{
+    padding: 5px;
+}
+
+
+#addData{
+  float:right;
+  margin:2% 2% 2% 0;
+}
+#test{
+  margin:2% 2% 2% 2%;
+}
+#deleteall{
+  float:right;
+  margin:2% 2% 2% 0;
+}
